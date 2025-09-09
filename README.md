@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I am Xeniia  👋
+🎯 Curious computer science student   
 
-<!--
-**XXeniia/XXeniia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Currently studying Computer Science.  
+- Skilled in **Python, Java, SQL, Excel, Power BI/Tableau**.  
+- Passionate about transforming data into insights and exploring technologies that make people’s lives easier.  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, Java, SQL, Angular
+- **Tools:** Excel, Power BI, Tableau  
+- **Other:** Git, Jupyter, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Portfolio Highlights
+- 📊 [Stock Market Analysis](https://github.com/XXeniia/Stock_Market_Analysis) – Interactive analysis of stock market trends using Python.  
+- 📈 [Weather App](https://github.com/XXeniia/weather_app) – Exploring the potential of open APIs to deliver real-time weather data. 
+- 🤖 [Chat Bot](https://github.com/yourusername/project3) – A fun chatbot that always has a joke ready.
+
+## 📫 How to reach me
+- [LinkedIn](https://linkedin.com/in/kseniia-repeta)  
+- [Email](mailto:kseniiarepeta@gmail.com)  
